@@ -94,9 +94,3 @@ To complete this project, you should deliver:
 &nbsp;
 
 
-Dans Databrick dans le retour des notebooks, il y a un bouton + avec visualisation  pour faire des graphes (utiles en capture d'écran).  
-<br/>
-
-Faire un powerpoint, avec j'ai utilisé ça car tat tac tac, j'ai obtenu avec une visualisation et du code sur les slides si besoin.
-
-&nbsp;
