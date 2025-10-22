@@ -93,17 +93,6 @@ To complete this project, you should deliver:
 
 &nbsp;
 
-# <span style="color: rgb(224, 62, 45);">Conseil de Raphaël</span>
-
-Faire les questions et en rajouter 3-4 pour le projet.
-
-Il est facile et on peut le présenter au choix avec Tinder à l'oral.
-
-&nbsp;
-
-Redshift est optimisé pour moins de requêtes sur plus de données.  
-RDS c'est pour des échanges constants sur une base de données "petite"  
-<br/>
 
 Dans Databrick dans le retour des notebooks, il y a un bouton + avec visualisation  pour faire des graphes (utiles en capture d'écran).  
 <br/>
