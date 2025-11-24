@@ -6,7 +6,9 @@
 
 <https://app.jedha.co/course/project-steam-ft/steam-ft>
 
-ci-dessous, vous trouvez le lien vers la publication publique sru DataBricks Community : [https://databricks-prod-cloudfront.cloud.databricks.com/public/4027ec902e239c93eaaa8714f173bcfc/3196898497095552/1371440223075587/2122917452595674/latest.html](https://databricks-prod-cloudfront.cloud.databricks.com/public/4027ec902e239c93eaaa8714f173bcfc/3196898497095552/1371440223075587/2122917452595674/latest.html)
+ci-dessous, vous trouvez le lien vers la publication publique du rendu sur DataBricks en version Community : 
+
+[https://databricks-prod-cloudfront.cloud.databricks.com/public/4027ec902e239c93eaaa8714f173bcfc/3196898497095552/1371440223075587/2122917452595674/latest.html](https://databricks-prod-cloudfront.cloud.databricks.com/public/4027ec902e239c93eaaa8714f173bcfc/3196898497095552/1371440223075587/2122917452595674/latest.html)
 
 ## Company's description 📇
 
